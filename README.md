@@ -2,10 +2,6 @@
 
 <p align="left">I am a Research Scholar in the Department of Electrical Engineering at the Indian Institute of Technology Patna, India. I strongly believe that computer vision can help humankind as an assisting tool. The high-dimensional data, especially videos, keeps many secrets inside it. Curating video surveillance data and extracting important features from them is challenging and demanding. During my Ph.D., I am focusing on developing algorithms that can help to detect and localize anomalies in video surveillance, especially in busy areas. Passionate about AI in computer vision, and anomaly detection in videos.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabusi&label=Profile%20views&color=0e75b6&style=flat" alt="rabusi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabusi" alt="rabusi" /></a> </p>
-
 - 🔭 I’m currently working on **video anomaly detection**
 
 - 📝 I regularly write articles on [https://medium.com/@naziaaslam_37290 : https://www.analyticsvidhya.com/blog/author/nazia9]
@@ -32,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabusi&show_icons=true&locale=en" alt="rabusi" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabusi&label=Profile%20views&color=0e75b6&style=flat" alt="rabusi" /> </p>
