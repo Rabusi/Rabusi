@@ -11,6 +11,13 @@
 
 - 📫 How to reach me **n.aslam921@gmail.com**
 
+- ## Research Interests
+
+:camera: Computer Vision </br>
+:video_game: Self-supervised Learning </br>
+:stars: Adversarial Machine Learning </br>
+:electric_plug: Anomaly Detection </br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nazia-aslam-904305100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazia aslam" height="30" width="40" /></a>
