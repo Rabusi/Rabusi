@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **n.aslam921@gmail.com**
 
-- ## Research Interests
+## Research Interests
 
 :camera: Computer Vision </br>
 :video_game: Self-supervised Learning </br>
