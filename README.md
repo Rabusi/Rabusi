@@ -1,7 +1,6 @@
 ![Computer Vision Research](background.jpg)
 
-<h5 align="left">Hi 👋, I'm Nazia Aslam</h5>
-<h5 align="center">I am a Research Scholar in the Department of Electrical Engineering at the Indian Institute of Technology Patna, India. I strongly believe that computer vision can help humankind as an assisting tool. The high-dimensional data, especially videos, keeps many secrets inside it. Curating video surveillance data and extracting important features from them is challenging and demanding. During my Ph.D., I am focusing on developing algorithms that can help to detect and localize anomalies in video surveillance, especially in busy areas. Passionate about AI in computer vision, and anomaly detection in videos.</h3>
+<p align="left">I am a Research Scholar in the Department of Electrical Engineering at the Indian Institute of Technology Patna, India. I strongly believe that computer vision can help humankind as an assisting tool. The high-dimensional data, especially videos, keeps many secrets inside it. Curating video surveillance data and extracting important features from them is challenging and demanding. During my Ph.D., I am focusing on developing algorithms that can help to detect and localize anomalies in video surveillance, especially in busy areas. Passionate about AI in computer vision, and anomaly detection in videos.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabusi&label=Profile%20views&color=0e75b6&style=flat" alt="rabusi" /> </p>
 
