@@ -1,4 +1,4 @@
-![Computer Vision Research](https://github.com/Rabusi/Rabusi/main/background.jpg)
+![Computer Vision Research](background.jpg)
 
 <h1 align="center">Hi 👋, I'm Nazia Aslam</h1>
 <h5 align="center">I am a Research Scholar in the Department of Electrical Engineering at the Indian Institute of Technology Patna, India. I strongly believe that computer vision can help humankind as an assisting tool. The high-dimensional data, especially videos, keeps many secrets inside it. Curating video surveillance data and extracting important features from them is challenging and demanding. During my Ph.D., I am focusing on developing algorithms that can help to detect and localize anomalies in video surveillance, especially in busy areas. Passionate about AI in computer vision, and anomaly detection in videos.</h3>
