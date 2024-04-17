@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@naziaaslam_37290 : https://www.analyticsvidhya.com/blog/author/nazia9]
 
-- 📫 How to reach me **n.aslam921@gmail.com**
+- 📫 Website https://rabusi.github.io/
 
 ## Research Interests
 
